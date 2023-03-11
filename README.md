@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">A passionate python developper having fun trading as a hobby</h3>
 
-- 🔭 I’m currently working on [HobbyTrader](https://github.com/MapleFrogStudio/hobbytrader)
+- 🔭 I’m currently working on [HobbyTrader](https://github.com/MapleFrogStudio/hobbytrader) for fun
 
-- ⚡ Basic trading knowledge **Investopedia**
+- ⚡ Basic trading knowledge [Investopedia](https://www.investopedia.com/articles/trading/05/011705.asp#toc-the-basics-of-day-trading)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
