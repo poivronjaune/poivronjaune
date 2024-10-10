@@ -5,6 +5,8 @@
 
 - ⚡ Basic trading knowledge [Investopedia](https://www.investopedia.com/articles/trading/05/011705.asp#toc-the-basics-of-day-trading)
 
+- :writing_hand: Python notes on my [Github pages](https://https://poivronjaune.github.io/)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
