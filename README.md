@@ -5,6 +5,8 @@
 
 - ⚡ Basic trading knowledge [Investopedia](https://www.investopedia.com/articles/trading/05/011705.asp#toc-the-basics-of-day-trading)
 
+- 📈 TradingView's lightweightCharts library [tutorial](https://tradingview.github.io/lightweight-charts/tutorials/customization/intro)
+
 - :writing_hand: Python notes on my [Github pages](https://poivronjaune.github.io/)
 
 - :hotsprings: Experimenting with context engineering for AI code generation
